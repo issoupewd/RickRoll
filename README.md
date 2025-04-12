@@ -60,6 +60,18 @@ git push
 
 ---
 
+### Future Improvements  
+- Replace the image with a dancing Rick.
+
+---
+
+### Issues  
+- ~~App won’t get closed and stays running in the background with no action~~: **Solved**
+
+
+  
+
+---
 ##  Notes
 
 - Tested on Windows.
